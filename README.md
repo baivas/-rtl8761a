@@ -11,4 +11,4 @@
 
 # sudo depmod -a
 
-# sudo modprobe btusb
+# sudo modprobe r8761a
