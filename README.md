@@ -1,5 +1,5 @@
 # RTL8723BS module LENOVO STICK 300
-# wget https://github.com/baivas/-rtl8761a/archive/refs/heads/main.zip
+# wget https://github.com/baivas/rtl8761a/archive/refs/heads/main.zip
 
 # unzip main.zip
 
