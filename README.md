@@ -3,7 +3,7 @@
 
 # unzip main.zip
 
-# cd -rtl8761a-main
+# cd rtl8761a-main
 
 # make
 
