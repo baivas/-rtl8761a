@@ -11,4 +11,4 @@
 
 # sudo depmod -a
 
-# sudo modprobe r8723bs
+# sudo modprobe btusb
